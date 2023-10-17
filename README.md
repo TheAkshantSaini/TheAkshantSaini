@@ -1,53 +1,144 @@
-<h1 align="center">Hi 👋, I'm Akshant Saini🌐🗿</h1>
-<h3 align="center">Technophile | Skilled in web development, C++, and passionate about cybersecurity and data science. Enthusiastic learner exploring the intersection of technology and security, with a focus on data-driven insights and innovative solutions</h3>
+<h1 align="center">Hello 👋, I'm Akshant Saini 🎯️</h1>
+<h3 align="center">Hey it's me Akshant Saini, Campus Rank: 9(on GFG) | Web Development | Cybersecurity | Figma | Open-Source .</h3>
 
-- 🔭 I’m currently working on **Hacking Skills**
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
-- 🌱 I’m currently learning **DSA**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 👯 I’m looking to collaborate on **Web development**
-
-- 👨‍💻 All of my projects are available at [Github](https://github.com/TheAkshantSaini)
-
-- 💬 Ask me about **C++, Hacking, HTML and CSS.**
- 
+- 🔭 I’m currently working on **Figma.**
+- 🌱 I’m currently learning **Competitive programming and DSA.**
+- 👯 I’m looking to collaborate on **Web Development Projects.**
+- 👨‍💻 All of my projects are available at <a href="https://github.com/theakshantsaini?tab=repositories" target="blank">Github.com</a>
+- 💬 Ask me about **Hacking, Java, HTML and CSS.**
 - 📫 How to reach me **theakshantsaini@gmail.com**
-
 - 📃 My resume - [View!](https://docs.google.com/document/d/1-YLRqVsMLrQzqfzymTp3QVfK3kWNetcK/edit?usp=sharing&ouid=112945733084533038478&rtpof=true&sd=true)
 
+  ## <img src="https://media.giphy.com/media/WiIuC6fAOoXD2/giphy.gif" width="40"> **Streak Info**:
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=theakshantsaini&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshantsaini&theme=radical&hide_border=true" alt="theakshantsaini" /></p>
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Badges:**
+[![An image of @theakshantsaini's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/theakshantsaini)](https://holopin.io/@theakshantsaini)
 
+## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://twitter.com/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshant saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshant saini" height="30" width="40" /></a>
-<a href="https://fb.com/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://instagram.com/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/perspectipedia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="perspectipedia" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@theakshantsaini" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="theakshantsaini" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/theakshantsaini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="theakshantsaini" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="40" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+###
 
+<div align="left">
+</div>
 
+###
 
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
+
+<p align="center">
+<a href="https://linkedin.com/in/theakshantsaini" target="_blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="theakshantsaini" /></a>
+<a href="https://theakshantsaini.github.io" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" alt="theakshantsaini" /></a>
+<a href="tel:+919596951582">
+  <img align="center" src="https://img.shields.io/badge/-Telephone-0088CC?style=flat-square&logo=telephone&logoColor=white" alt="telephone" />
+</a>
+<a href="mailto:theakshantsaini@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="theakshantsaini" /></a>
+<a href="https://www.instagram.com/theakshantsaini/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="theakshantsaini" />
+</a>
+<a href="https://leetcode.com/theakshantsaini/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="theakshantsaini" />
+</a>
+<a href="https://auth.geeksforgeeks.org/user/theakshantsaini" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="theakshantsaini" />
+</a>
+<a href="https://codepen.io/theakshantsaini/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-CodePen-000000?style=flat-square&logo=codepen&logoColor=white" alt="theakshantsaini" />
+</a>
+<a href="https://www.hackerrank.com/theakshantsaini" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="theakshantsaini" />
+</a>
+<a href="https://github.com/TheAkshantSaini" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="theakshantsaini" />
+</a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=theakshantsaini&label=Profile Visitors&color=0088cc&style=flat-square" alt="theakshantsaini" /> </p>
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 
 <details>
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/theakshantsaini">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=theakshantsaini&show_icons=true&theme=radical&count_private=true">
+  <a href="https://github.com/TheAkshantSaini">
+   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=theakshantsaini&theme=gotham&hide_border=true&include_all_commits=false&count_private=false">
   </a>
   <a href="https://github.com/abhinandanraj/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=theakshantsaini&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=theakshantsaini&theme=gotham&hide_border=true">
+  </a>
+  <a href="https://github.com/abhinandanraj/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theakshantsaini&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact">
   </a>
  </p>
 </details>
@@ -56,11 +147,22 @@
  <summary>🏆 <b>Github Profile Trophy</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+	 <a href="#">
    <img src="https://github-profile-trophy.vercel.app/?username=theakshantsaini&column=8&theme=darkhub"/>
   </a>
  </p>
 </details>
+
+<details>
+ <summary>🔝 <b>Top Contributed Repo</b></summary>
+ <br />
+ <p align="center">
+	 <a href="#">
+   <img src="https://github-contributor-stats.vercel.app/api?username=theakshantsaini&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  </a>
+ </p>
+</details>
+
 
 
 <details>
@@ -68,7 +170,7 @@
   <summary>⚙️ <b> Things I use to get stuff done</b></summary>
   	<ul>
   	   <li><b>OS:</b> Windows 11 </li>
-	     <li><b>Laptop: </b> MI Notebook ULtra Intel Core i5 11th Gen(16GB)</li>
+	     <li><b>Laptop: </b> XIAOMI Notebook Pro Intel Core i5 11th Gen</li>
   	   <li><b>Browser: </b> Chrome Web Browser</li>
 	     <li><b>Code Editor:</b> VSCode - The best editor out there.</li>
 	     <li><b>To Stay Updated:</b> Linkedin </li>
@@ -76,3 +178,15 @@
 	    <br />
 	</ul>
 </details>
+
+---
+
+### Dev Meme Of The Day!
+<div align="center">
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+</div>
+
+---
+### Dev Quote Of The Day!
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
