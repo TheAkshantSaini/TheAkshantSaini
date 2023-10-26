@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/theakshantsaini?tab=repositories" target="blank">Github.com</a>
-- 💬 Ask me about **Hacking, Java, HTML and CSS.**
+- 💬 Ask me about **Hacking, Cpp, HTML and CSS.**
 - 📫 How to reach me **theakshantsaini@gmail.com**
 - 📃 My resume - [View!](https://docs.google.com/document/d/1-YLRqVsMLrQzqfzymTp3QVfK3kWNetcK/edit?usp=sharing&ouid=112945733084533038478&rtpof=true&sd=true)
 
