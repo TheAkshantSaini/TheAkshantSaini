@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Akshant Saini 🎯️</h1>
-<h3 align="center">Campus Rank: 8(on GFG) | Web Development | Cybersecurity | Figma | Open-Source .</h3>
+<h3 align="center">Campus Rank: 5(on GFG) | Web Development | Cybersecurity | Figma | Open-Source .</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
