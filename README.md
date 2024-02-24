@@ -1,11 +1,10 @@
 <h1 align="center">Hello 👋, I'm Akshant Saini 🎯️</h1>
-<h3 align="center">Campus Rank: 3(on GFG) | Web Development | Cybersecurity | Figma | Open-Source .</h3>
+<h3 align="center">Campus Rank: 3(on GFG) | Web Development | Cybersecurity | Open-Source .</h3>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
-- 🔭 I’m currently working on **Figma.**
 - 🌱 I’m currently learning **Competitive programming and DSA.**
 - 👯 I’m looking to collaborate on **Web Development Projects.**
 - 👨‍💻 All of my projects are available at <a href="https://github.com/theakshantsaini?tab=repositories" target="blank">Github.com</a>
